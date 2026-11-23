@@ -1,0 +1,16 @@
+.section-heading {
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+}
+
+.section-heading--center {
+  align-items: center;
+  text-align: center;
+  margin-inline: auto;
+}
+
+.section-heading--left {
+  align-items: flex-start;
+  text-align: left;
+}
